@@ -5,7 +5,7 @@
 - ふりがな: よしだ しょうへい
 - github: https://github.com/syohex
 - CPAN: https://metacpan.org/author/SYOHEX
-- twitter: @syohex
+- twitter: [@syohex](http://twitter.com/syohex)
 
 ## 職歴
 
