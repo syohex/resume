@@ -36,3 +36,31 @@
 
 ### アーキテクチャ
 - ARM(ARMv7, ARMv8), MIPS
+
+## プログラム開発
+
+### Perl
+- [Testgen](https://github.com/syohex/p5-Testgen)
+
+
+### Emacs Lisp
+- [git-gutter](https://github.com/syohex/emacs-git-gutter)
+- [quickrun](https://github.com/syohex/emacs-quickrun)
+- [anzu](https://github.com/syohex/emacs-anzu)
+
+and more.
+
+## メンテナンス
+
+### Perl
+- [Text::Xslate](https://github.com/xslate/p5-Text-Xslate/)
+- [Mouse](https://github.com/gfx/p5-Mouse)
+
+### Go
+- [peco](https://github.com/peco/peco/)
+
+### Emacs Lisp
+- [auto-complete](https://github.com/auto-complete/auto-complete/)
+- [coffee-mode](https://github.com/defunkt/coffee-mode)
+- [php-mode](https://github.com/ejmr/php-mode/)
+- [jedi](https://github.com/tkf/emacs-jedi/)
