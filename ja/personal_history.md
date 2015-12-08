@@ -55,6 +55,7 @@ and more.
 ### Perl
 - [Text::Xslate](https://github.com/xslate/p5-Text-Xslate/)
 - [Mouse](https://github.com/gfx/p5-Mouse)
+- [Data::MessagePack](https://github.com/msgpack/msgpack-perl)
 
 ### Go
 - [peco](https://github.com/peco/peco/)
