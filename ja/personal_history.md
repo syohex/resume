@@ -1,4 +1,4 @@
-# 履歴書 2015年 12月 現在
+# 履歴書 2016年 2月 現在
 
 ## 基本情報
 - 氏名: 吉田昌平
@@ -12,7 +12,7 @@
 | 年   | 月 | 職歴                                           |
 |:-----|:---|:-----------------------------------------------|
 | 2008 | 4  | 株式会社アックス 入社                          |
-| 2016 | 2  | 株式会社アックス 退職予定                      |
+| 2016 | 3  | 株式会社アックス 退職予定                      |
 
 
 ## 学歴・職歴
@@ -56,6 +56,7 @@ and more.
 - [Text::Xslate](https://github.com/xslate/p5-Text-Xslate/)
 - [Mouse](https://github.com/gfx/p5-Mouse)
 - [Data::MessagePack](https://github.com/msgpack/msgpack-perl)
+- [plenv](https://github.com/tokuhirom/plenv/)
 
 ### Go
 - [peco](https://github.com/peco/peco/)
@@ -65,3 +66,4 @@ and more.
 - [coffee-mode](https://github.com/defunkt/coffee-mode)
 - [php-mode](https://github.com/ejmr/php-mode/)
 - [jedi](https://github.com/tkf/emacs-jedi/)
+- [markdown-mode](https://github.com/jrblevin/markdown-mode/)
