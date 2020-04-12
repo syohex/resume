@@ -1,13 +1,30 @@
 # 職務経歴書 2016年 2月
 
 ## 基本情報
+
 - 名前: 吉田昌平
 - ふりがな: よしだしょうへい
 
 
 ## 職務内容詳細
 
-### 2015/04 - 2016/02 Linux ARM AArch64向け SDKの構築
+## 2017/01 - 2020/04
+- AndApp native周りの機能の堪能
+- 担当: 調査, 設計, 実装, テスト
+- 作業内容
+  - Windows, macOS用バックエンドプログラムの設計, 作成(C, C++, Objective-C, Objective-C++)
+  - Windows, macOS用クライアントアプリの開発(node.js, TypeScript)
+  - C++, Unity SDK開発, 保守
+  - Electron, Chromiumの改良
+
+
+## 2016/07 - 2016/12
+- 概要 [AndApp](http://www.andapp.jp/)向け APIサーバの開発
+- 担当: 調査, 設計, 実装, テスト
+- 作業内容
+  - Go言語を用いた Google App Engineで動作する APIサーバの開発
+
+### 2015/04 - 2016/06 Linux ARM AArch64向け SDKの構築
 - 概要 AArch64(ARM 64bit)向けの SDKを構築する
 - 担当: 調査, 設計, 実装, テスト
 - 作業内容

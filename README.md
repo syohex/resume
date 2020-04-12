@@ -1,4 +1,4 @@
-# Syohei Yoshida Resume
+# Shohei Yoshida Resume
 
 ## Web Site
 - [http://syohex.org/](http://syohex.org/)

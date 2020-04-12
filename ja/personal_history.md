@@ -1,4 +1,4 @@
-# 履歴書 2016年 2月 現在
+# 履歴書 2020年 4月 現在
 
 ## 基本情報
 - 氏名: 吉田昌平
@@ -9,41 +9,61 @@
 
 ## 職歴
 
-| 年   | 月 | 職歴                                           |
+| 年   | 月 | 職歴                                            |
 |:-----|:---|:-----------------------------------------------|
-| 2008 | 4  | 株式会社アックス 入社                          |
-| 2016 | 3  | 株式会社アックス 退職予定                      |
+| 2008 | 4  | 株式会社アックス 入社                             |
+| 2016 | 6  | 株式会社アックス 退職                             |
+| 2016 | 7  | 株式会社DeNA 入社                              |
 
 
 ## 学歴・職歴
 
-| 年   | 月 | 学歴                                           |
-|:-----|:---|:-----------------------------------------------|
-| 2002 | 4  | 関西学院大学理工学部情報科学科 入学            |
-| 2006 | 3  | 関西学院大学理工学部情報科学科 卒業            |
-| 2006 | 4  | 関西学院大学大学院理工学研究科情報科学専攻 入学|
-| 2008 | 3  | 関西学院大学大学院理工学研究科情報科学専攻 修了|
+| 年   | 月 | 学歴                                      |
+|:-----|:---|:-----------------------------------------|
+| 2002 | 4  | 関西学院大学理工学部情報科学科 入学           |
+| 2006 | 3  | 関西学院大学理工学部情報科学科 卒業           |
+| 2006 | 4  | 関西学院大学大学院理工学研究科情報科学専攻 入学 |
+| 2008 | 3  | 関西学院大学大学院理工学研究科情報科学専攻 修了 |
 
 ## スキル
 
 ### プログラミング言語
-- C, C++, アセンブリ言語(ARM, MIPS), Perl, Go, Emacs Lisp
+
+- C
+- C++
+- Objective-C, Objective-C++
+- Python
+- アセンブリ言語(ARM, MIPS)
+- node.js(JavaScript, TypeScript)
+- Unity C#
+- Perl
+- Go
+- Emacs Lisp
 
 ### OS
+
 - Linux, FreeBSD, NetBSD
  - アーキテクチャ依存部
  - ネットワークスタック
+- Windows
+ - C++を用いた nativeアプリケーション開発
+- macOS
+ - Objective-C, Objective-C++を用いた nativeアプリケーション開発
 
 ### アーキテクチャ
-- ARM(ARMv7, ARMv8), MIPS
+
+- ARM(ARMv7, ARMv8)
+- MIPS
 
 ## プログラム開発
 
 ### Perl
+
 - [Testgen](https://github.com/syohex/p5-Testgen)
 
 
 ### Emacs Lisp
+
 - [git-gutter](https://github.com/syohex/emacs-git-gutter)
 - [quickrun](https://github.com/syohex/emacs-quickrun)
 - [anzu](https://github.com/syohex/emacs-anzu)
@@ -60,10 +80,3 @@ and more.
 
 ### Go
 - [peco](https://github.com/peco/peco/)
-
-### Emacs Lisp
-- [auto-complete](https://github.com/auto-complete/auto-complete/)
-- [coffee-mode](https://github.com/defunkt/coffee-mode)
-- [php-mode](https://github.com/ejmr/php-mode/)
-- [jedi](https://github.com/tkf/emacs-jedi/)
-- [markdown-mode](https://github.com/jrblevin/markdown-mode/)
