@@ -1,8 +1,8 @@
 # Shohei Yoshida Resume
 
 ## Web Site
-- [http://syohex.org/](http://syohex.org/)
-- [LinkedIn](http://www.linkedin.com/pub/syohei-yoshida/64/bb3/3b7)
+- [https://syohex.org/](https://syohex.org/)
+- [LinkedIn](https://www.linkedin.com/in/shohei-yoshida-3b7bb364/)
 
 ## Japanese
 - [履歴書](ja/personal_history.md)
