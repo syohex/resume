@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "0.0.1",
+  "description": "Shohei YOSHIDA resume",
+  "main": "index.js",
+  "scripts": {
+    "build:pdf": "npm run build:pdf:ja:resume && npm run build:pdf:ja:history",
+    "build:pdf:ja:resume": "md-to-pdf ja/resume.md",
+    "build:pdf:ja:history": "md-to-pdf ja/personal_history.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syohex/resume.git"
+  },
+  "keywords": [],
+  "author": "Shohei YOSHIDA <syohex@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syohex/resume/issues"
+  },
+  "homepage": "https://github.com/syohex/resume#readme",
+  "devDependencies": {
+    "md-to-pdf": "^3.1.1"
+  }
+}
