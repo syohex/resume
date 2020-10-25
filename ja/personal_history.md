@@ -1,11 +1,11 @@
-# 履歴書 2020年 4月 現在
+# 履歴書 2020年 10月 現在
 
 ## 基本情報
 - 氏名: 吉田昌平
 - ふりがな: よしだ しょうへい
 - github: https://github.com/syohex
 - CPAN: https://metacpan.org/author/SYOHEX
-- twitter: [@syohex](http://twitter.com/syohex)
+- twitter: [@syohex](https://twitter.com/syohex)
 
 ## 職歴
 
@@ -27,40 +27,62 @@
 
 ## スキル
 
+- C, C++を用いた中規模・大規模のソフトウェア設計開発
+- テスタブルな設計, 実装
+- レガシーコードのリファクタリング
+- native層に近いレベルでの計測・デバッグ
+
+## 技術スタック
+
 ### プログラミング言語
 
 - C
 - C++
 - Objective-C, Objective-C++
+- アセンブリ言語(ARMv7, MIPS)
 - Python
-- アセンブリ言語(ARM, MIPS)
 - node.js(JavaScript, TypeScript)
-- Unity C#
-- Perl
+- C#, Unity
+- Perl, XS
 - Go
 - Emacs Lisp
 
 ### OS
 
 - Linux, FreeBSD, NetBSD
- - アーキテクチャ依存部
- - ネットワークスタック
+ - アーキテクチャ依存部の実装, 解析, デバッグ
+ - ネットワークスタックの実装, 解析, デバッグ
+ - ユーザランドアプリケーションの開発
 - Windows
  - C++を用いた nativeアプリケーション開発
 - macOS
  - Objective-C, Objective-C++を用いた nativeアプリケーション開発
+- その他
+  - クロスプラットフォーム向けライブラリの開発
 
 ### アーキテクチャ
 
 - ARM(ARMv7, ARMv8)
 - MIPS
 
-## プログラム開発
+### フレームワーク
 
-### Perl
+- Electron, Chromium
+- gRPC
 
-- [Testgen](https://github.com/syohex/p5-Testgen)
+## 意欲, 興味
 
+- native層に近いレイヤに関わる設計・開発
+- C, C++, Rust言語を用いた中規模・大規模プロジェクトの設計・開発
+- 大規模トラフィックに関わる業務
+- nativeよりのことが得意ですが, そうでないことも業務に関わることは積極的に学習しています
+
+
+## OSS活動
+
+- Emacs関連のパッケージの多数の開発
+- Perl, Goに関するライブラリ, アプリケーションのメンテナンス
+- 各種パッチ作成(Electron, Emacs, zsh, h2o etc)
 
 ### Emacs Lisp
 
@@ -68,9 +90,7 @@
 - [quickrun](https://github.com/syohex/emacs-quickrun)
 - [anzu](https://github.com/syohex/emacs-anzu)
 
-and more.
-
-## メンテナンス
+他多数.
 
 ### Perl
 - [Text::Xslate](https://github.com/xslate/p5-Text-Xslate/)
