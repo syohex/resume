@@ -10,12 +10,16 @@
 
 ## 2017/01 - 2020/10
 - AndApp native周りの機能の堪能
-- 担当: 調査, 設計, 実装, テスト
-- 作業内容
-  - Windows, macOS用バックエンドプログラムの設計, 作成(C, C++, Objective-C, Objective-C++), 
-  - Windows, macOS用クライアントアプリの開発(node.js, TypeScript)
-  - AndApp C++, Unity SDK開発, 保守
-  - Electron, Chromiumの改良
+  - 担当: 調査, 設計, 実装, テスト
+  - 作業内容
+    - Windows, macOS用バックエンドプログラムの設計, 作成(C, C++, Objective-C, Objective-C++),
+    - Windows, macOS用クライアントアプリの開発(node.js, TypeScript)
+    - AndApp C++, Unity SDK開発, 保守
+    - Electron, Chromiumの改良
+- 各種ヘルプ業務
+  - ポケモンマスターズ ゲームエンジンデバッグ作業
+  - ゲーム SDKの IL2CPP対応
+  - 社内向け Perl XSモジュールの 64bit対応作業
 
 
 ## 2016/07 - 2016/12
