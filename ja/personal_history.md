@@ -6,6 +6,7 @@
 - github: https://github.com/syohex
 - CPAN: https://metacpan.org/author/SYOHEX
 - twitter: [@syohex](https://twitter.com/syohex)
+- leetcode: https://leetcode.com/syohex/
 
 ## 職歴
 
