@@ -16,6 +16,12 @@
     - Windows, macOS用クライアントアプリの開発(node.js, TypeScript)
     - AndApp C++, Unity SDK開発, 保守
     - Electron, Chromiumの改良
+  - 各種改善
+    - ユニットテストの導入
+      - テスト導入のための再設計
+    - テスト自動化
+    - コード規約の策定
+    - ドキュメントの整備
 - 各種ヘルプ業務
   - ポケモンマスターズ ゲームエンジンデバッグ作業
   - ゲーム SDKの IL2CPP対応
