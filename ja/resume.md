@@ -8,20 +8,22 @@
 
 ## 職務内容詳細
 
-## 2017/01 - 2020/10
+## 2017/01 - 2020/11
 - AndApp native周りの機能の堪能
   - 担当: 調査, 設計, 実装, テスト
   - 作業内容
     - Windows, macOS用バックエンドプログラムの設計, 作成(C, C++, Objective-C, Objective-C++),
-    - Windows, macOS用クライアントアプリの開発(node.js, TypeScript)
+    - Windows, macOS用クライアントアプリの開発(node.js, TypeScript, C++)
     - AndApp C++, Unity SDK開発, 保守
     - Electron, Chromiumの改良
+      - Electronのバグ修正
+    - ARM macOS対応
   - 各種改善
     - ユニットテストの導入
-      - テスト導入のための再設計
+      - テスト導入のための全体の再設計
     - クラッシュレポートの自動解析, Slack通知対応
     - テスト自動化
-    - コード規約の策定
+    - コーディング規約の策定
     - ドキュメントの整備
 - 各種ヘルプ業務
   - ポケモンマスターズ ゲームエンジンデバッグ作業
@@ -34,6 +36,7 @@
 - 担当: 調査, 設計, 実装, テスト
 - 作業内容
   - Go言語を用いた Google App Engineで動作する APIサーバの開発
+  - パフォーマンス調査・改善
 
 ### 2015/04 - 2016/06 Linux ARM AArch64向け SDKの構築
 - 概要 AArch64(ARM 64bit)向けの SDKを構築する
