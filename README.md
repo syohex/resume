@@ -19,7 +19,6 @@
 - node.js(+ native module development)
 - TypeScript
 - C#, Unity
-- node.js
 - assembly lanaguage(ARMv7, MIPS)
 - Lisp family(Especially Emacs Lisp)
 
