@@ -8,10 +8,10 @@
 
 ## 職務内容詳細
 
-## 2020/12 - 2021/02
-- mBaaS向け Unity SDK, native SDK(iOS, Android)の開発
+## 2020/12 - 2021/03
+- mBaaS向け Unity SDK, native SDK(iOS, Android)の開発, テスト, QA
 
-## 2017/01 - 2021/02
+## 2017/01 - 2021/03
 - AndApp native周りの機能の堪能
   - 担当: 調査, 設計, 実装, テスト
   - 作業内容
