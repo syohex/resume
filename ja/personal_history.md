@@ -41,6 +41,7 @@
 - C
 - C++
 - Objective-C, Objective-C++
+- Java(Android), Kotlin(Android)
 - アセンブリ言語(ARMv7, MIPS)
 - Python
 - node.js(JavaScript, TypeScript)
