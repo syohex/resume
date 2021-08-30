@@ -10,7 +10,7 @@
 
 ## 2020/12 - 2021/08
 - mBaaS向け Unity SDK, native SDK(iOS, Android)の機能設計, 開発, テスト, テストアプリ作成, QA
-  - C#, Objective-C, Java
+  - C#(Unity), Objective-C, Java
 
 ## 2017/01 - 2021/08
 - AndApp native周りの機能の堪能
@@ -33,6 +33,7 @@
     - CIクラウド移行
       - オンプレミス環境から AWS EC2への以降
     - Modernな Unity環境への対応
+      - Unity 4.x, 5.xの SDKの Unity 2018以降への対応
 - 各種ヘルプ業務
   - ポケモンマスターズ ゲームエンジンデバッグ作業
   - ゲーム SDKの IL2CPP対応
