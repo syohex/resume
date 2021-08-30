@@ -61,6 +61,8 @@
  - C++を用いた nativeアプリケーション開発
 - macOS
  - Objective-C, Objective-C++を用いた nativeアプリケーション開発
+- Android
+- iOS
 - その他
   - クロスプラットフォーム向けライブラリの開発
 
@@ -73,6 +75,7 @@
 
 - Electron, Chromium
 - gRPC
+- Qt
 
 ## 意欲, 興味
 
