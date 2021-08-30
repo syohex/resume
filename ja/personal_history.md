@@ -90,7 +90,6 @@
   - 開発(git-gutter, anzu, quickrun.el, helm-ag etc
   - 保守 [markdown-mode](https://github.com/jrblevin/markdown-mode/)
 - Perl, Goに関するライブラリ, アプリケーションのメンテナンス
-  - 
 - Go
   - 保守 [peco](https://github.com/peco/peco)
 - zsh
