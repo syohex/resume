@@ -15,6 +15,7 @@
 | 2008 | 4  | 株式会社アックス 入社                             |
 | 2016 | 6  | 株式会社アックス 退職                             |
 | 2016 | 7  | 株式会社DeNA 入社                              |
+| 2020 | 12  | (副業) ベルフェイス株式会社                    |
 
 
 ## 学歴・職歴
@@ -78,28 +79,17 @@
 - native層に近いレイヤに関わる設計・開発
 - C, C++, Rust言語を用いた中規模・大規模プロジェクトの設計・開発
 - 大規模トラフィックに関わる業務
-- nativeよりのことが得意ですが, そうでないことも業務に関わることは積極的に学習しています
-
+- native寄りのことが得意ですが, そうでないことも業務に関わることは積極的に学習しています
 
 ## OSS活動
 
-- Emacs関連のパッケージの多数の開発
+- Emacs関連のパッケージ
+  - 開発(git-gutter, anzu, quickrun.el, helm-ag etc
+  - 保守 [markdown-mode](https://github.com/jrblevin/markdown-mode/)
 - Perl, Goに関するライブラリ, アプリケーションのメンテナンス
+  - 
+- Go
+  - 保守 [peco](https://github.com/peco/peco)
+- zsh
+  - 保守 [zsh-completions](https://github.com/zsh-users/zsh-completions/)
 - 各種パッチ作成(Electron, Emacs, zsh, h2o etc)
-
-### Emacs Lisp
-
-- [git-gutter](https://github.com/syohex/emacs-git-gutter)
-- [quickrun](https://github.com/syohex/emacs-quickrun)
-- [anzu](https://github.com/syohex/emacs-anzu)
-
-他多数.
-
-### Perl
-- [Text::Xslate](https://github.com/xslate/p5-Text-Xslate/)
-- [Mouse](https://github.com/gfx/p5-Mouse)
-- [Data::MessagePack](https://github.com/msgpack/msgpack-perl)
-- [plenv](https://github.com/tokuhirom/plenv/)
-
-### Go
-- [peco](https://github.com/peco/peco/)
