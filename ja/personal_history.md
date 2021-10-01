@@ -1,12 +1,12 @@
-# 履歴書 202l年 9月 現在
+# 履歴書 202l年 10月 現在
 
 ## 基本情報
 - 氏名: 吉田昌平
 - ふりがな: よしだ しょうへい
 - github: https://github.com/syohex
-- CPAN: https://metacpan.org/author/SYOHEX
 - twitter: [@syohex](https://twitter.com/syohex)
 - leetcode: https://leetcode.com/syohex/
+- CPAN: https://metacpan.org/author/SYOHEX
 
 ## 職歴
 
