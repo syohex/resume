@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/syohex/resume#readme",
   "devDependencies": {
-    "md-to-pdf": "^5.0.0"
+    "md-to-pdf": "^5.1.0"
   }
 }
