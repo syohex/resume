@@ -20,11 +20,13 @@
 - C++
 - Objective-C, Objective-C++
 - Golang
+- Rust
 - Perl
 - Python
 - node.js(+ native module development)
 - TypeScript
 - C#, Unity
+- F#
 - assembly lanaguage(ARMv7, MIPS)
 - Lisp family(Especially Emacs Lisp)
 
