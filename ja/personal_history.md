@@ -1,4 +1,4 @@
-# 履歴書 2022年 2月 現在
+# 履歴書 2022年 3月 現在
 
 ## 基本情報
 - 氏名: 吉田昌平
@@ -47,10 +47,10 @@
 - Python
 - node.js(JavaScript, TypeScript)
 - C#, Unity
+- F#
 - Perl, XS
 - Go
 - Emacs Lisp
-- F#
 
 ### OS
 

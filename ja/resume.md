@@ -1,4 +1,4 @@
-# 職務経歴書 2022年 2月
+# 職務経歴書 2022年 3月
 
 ## 基本情報
 
@@ -8,11 +8,11 @@
 
 ## 職務内容詳細
 
-## 2020/12 - 2022/2
+## 2020/12 - 2022/03
 - mBaaS向け Unity SDK, native SDK(iOS, Android)の機能設計, 開発, テスト, テストアプリ作成, QA
   - C#(Unity), Objective-C, Java, Kotlin, Swift
 
-## (副業) 2021/05 - 2022/2
+## (副業) 2021/05 - 2022/03
 - レコログ サーバ APIのレビュー(コード設計, 実装, テスト)
   - Go, OpenAPI, Clean Architecture
 
