@@ -2,8 +2,11 @@
 
 ## Web Site
 
-- [https://syohex.org/](https://syohex.org/)
 - [LinkedIn](https://www.linkedin.com/in/shohei-yoshida-3b7bb364/)
+- [https://syohex.org/](https://syohex.org/)
+- [Japanese Blog](https://syohex.hatenablog.com/)
+- [hashnode](https://syohex.hashnode.dev/)
+- [Tealfeed](https://tealfeed.com/shohei_936992)
 
 ## Japanese
 
