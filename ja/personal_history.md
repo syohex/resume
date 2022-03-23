@@ -5,8 +5,7 @@
 - ふりがな: よしだ しょうへい
 - github: https://github.com/syohex
 - twitter: [@syohex](https://twitter.com/syohex)
-- leetcode: https://leetcode.com/syohex/
-- CPAN: https://metacpan.org/author/SYOHEX
+- LinkedIn: https://www.linkedin.com/in/shohei-yoshida-3b7bb364/
 
 ## 職歴
 
@@ -87,7 +86,7 @@
 ## OSS活動
 
 - Emacs関連のパッケージ
-  - 開発(git-gutter, anzu, quickrun.el, helm-ag etc
+  - 開発(git-gutter, anzu, quickrun.el, helm-ag etc)
   - 保守 [markdown-mode](https://github.com/jrblevin/markdown-mode/)
 - Perl, Goに関するライブラリ, アプリケーションのメンテナンス
 - Go
