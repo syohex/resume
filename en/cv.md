@@ -15,10 +15,10 @@ from kernel level to cloud computing
 July 2017 - Present
 
 I developed PC game platform(AndApp) on Windows/macOS and its C++ and Unity SDK.
-I improved many things, introducing unit testing, CI, define coding convention, writing
-many documents etc.
+I improved many things, introducing refactoring, unit testing, CI, define coding convention,
+writing many documents etc.
 
-I developed mBaaS Unity SDK for Android and iOS in C#, Java, Objective-C.
+I developed mBaaS Unity SDK for Android and iOS in C#, Java, Kotlin, Objective-C.
 
 ### Axe,Inc (Kyoto, Japan) Embedded System Engineer
 
@@ -37,3 +37,5 @@ Kwansei Gakuin University(Hyogo, Japan) - master of information techlonogy
 Embedded system compiler research and development
 
 ## Interests
+
+- Low level programming
