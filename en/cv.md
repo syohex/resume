@@ -14,21 +14,34 @@ from kernel level to cloud computing
 
 July 2017 - Present
 
-I developed PC game platform(AndApp) on Windows/macOS and its C++ and Unity SDK.
-I improved many things, introducing refactoring, unit testing, CI, define coding convention,
-writing many documents etc.
+#### Responsibilities
 
-I developed mBaaS Unity SDK for Android and iOS in C#, Java, Kotlin, Objective-C.
+Responsibilities
+- Developed C++/Rust/C# software
+- Developed background process of PC game platforms on Windows and macOS, Recording App, installer, node.js native modules
+- Modified Electron, Chromium for specific usage
+
+#### Impact
+
+- Introduced TDD development, continuous integration
+- Refactored entire code base and improved maintainability
+- Speed up unzip code 5x faster by rewriting node.js code to Rust
+
 
 ### Axe,Inc (Kyoto, Japan) Embedded System Engineer
 
 April 2008 - June 2016
 
-I developed embeded operationg system, own embedded operation systems, NetBSD,
-FreeBSD, Linux. That works were kernel bug fix, device driver bug fix, porting to
-new architecture(ARMv7, MIPS), improving network stack performance. I also developed
-own hypervisor system for embedded platform.
+#### Responsibilities
 
+- Debugged/Maintained custom operating system
+- Improved network performance
+- Researched and developed embedded system OS
+
+#### Impact
+
+- Fixed difficult kernel bugs
+- Found custom CPU bugs
 
 ## Education
 
