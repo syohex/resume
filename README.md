@@ -17,7 +17,7 @@
 
 - [CV](en/cv.md)
 
-## Programming Language Skill
+## Programming Language Skills
 
 - C
 - C++
@@ -26,7 +26,7 @@
 - Rust
 - Perl
 - Python
-- node.js(+ native module development)
+- node.js, C++ native module, Rust native module
 - TypeScript
 - C#, Unity
 - F#

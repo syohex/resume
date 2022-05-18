@@ -5,8 +5,9 @@ syohex@gmail.com
 
 ## Professional Summary
 
-15 years of Software Engineering experience. I have wide range of knowlege
-from kernel level to cloud computing
+- 15 years of Software Engineering experience.
+- Debugging large product software, Linux kernel, FreeBSD, NetBSD, Electron, Chromium etc
+- Strong proficient in C/C++
 
 ## Work Experience
 
