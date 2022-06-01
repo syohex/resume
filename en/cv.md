@@ -13,13 +13,13 @@ syohex@gmail.com
 
 ### DeNA (Tokyo, Japan) Windows/macOS app Engineer, mobile SDK Engineer
 
-July 2017 - Present
+July 2016 - Present
 
 #### Responsibilities
 
 Responsibilities
 - Developed C++/Rust/C# software
-- Developed background process of PC game platforms on Windows and macOS, Recording App, installer, node.js native modules
+- Developed background process of PC game platforms([AndApp](https://www.andapp.jp/)) on Windows and macOS, Recording App, installer, node.js native modules
 - Modified Electron, Chromium for specific usage
 
 #### Impact
