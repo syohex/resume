@@ -50,6 +50,26 @@ Kwansei Gakuin University(Hyogo, Japan) - master of information techlonogy
 
 Embedded system compiler research and development
 
+## Skills
+
+### Languages
+
+- C - Advanced level
+- C++ - Advanced level
+- Golang - Intermediate level
+- Rust - Intermediate level
+- Python - Intermediate level
+
+### Tools
+
+- gRPC
+- Docker
+
+### Practices
+
+- Test Driven Development
+- Object Oriented Programming
+
 ## Interests
 
 - Low level programming
