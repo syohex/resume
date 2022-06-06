@@ -56,6 +56,7 @@ Embedded system compiler research and development
 
 - C - Advanced level
 - C++ - Advanced level
+- Perl/XS - Advanced level
 - Golang - Intermediate level
 - Rust - Intermediate level
 - Python - Intermediate level
@@ -70,6 +71,7 @@ Embedded system compiler research and development
 - Test Driven Development
 - Object Oriented Programming
 
-## Interests
+## Links
 
-- Low level programming
+- [github](https://github.com/syohex)
+- [LinkedIn Profile](https://www.linkedin.com/in/shohei-yoshida-3b7bb364/)
