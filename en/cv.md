@@ -20,7 +20,7 @@ July 2016 - Present
 Responsibilities
 - Developed C++/Rust/C# software
 - Developed background process of PC game platforms([AndApp](https://www.andapp.jp/)) on Windows and macOS, Recording App, installer, node.js native modules
-- Modified Electron, Chromium for specific usage
+- Modified Electron, Chromium for improving memory usage, encrypting data
 
 #### Impact
 
@@ -36,8 +36,8 @@ April 2008 - June 2016
 #### Responsibilities
 
 - Debugged/Maintained custom operating system
-- Improved network performance
-- Researched and developed embedded system OS
+- Improved network performance of NetBSD, FreeBSD
+- Researched and developed embedded system OS(Cars, Cameras etc)
 
 #### Impact
 
@@ -46,7 +46,7 @@ April 2008 - June 2016
 
 ## Education
 
-Kwansei Gakuin University(Hyogo, Japan) - master of information techlonogy
+Kwansei Gakuin University(Hyogo, Japan) - master of information technology
 
 Embedded system compiler research and development
 

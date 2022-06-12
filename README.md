@@ -19,19 +19,21 @@
 
 ## Programming Language Skills
 
-- C
-- C++
-- Objective-C, Objective-C++
-- Golang
-- Rust
-- Perl
-- Python
-- node.js, C++ native module, Rust native module
-- TypeScript
-- C#, Unity
-- F#
-- assembly lanaguage(ARMv7, MIPS)
-- Lisp family(Especially Emacs Lisp)
+- Advanced Level
+  - C
+  - C++
+  - Perl/XS
+  - Lisp family languages(Especially Emacs Lisp)
+- Intermediate Level
+  - Golang
+  - Rust
+  - Python
+  - node.js, C++ native module, Rust native module
+  - TypeScript
+  - C#, Unity
+  - F#
+  - Objective-C, Objective-C++
+  - assembly lanaguage(ARMv7, MIPS)
 
 ## Others
 
@@ -42,3 +44,6 @@
   - NetBSD kernel
   - Windows application in C++
   - macOS application in Objective-C, Objective-C++
+- Practices
+  - Test Driven Development
+  - Object Oriented Programming
