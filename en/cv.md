@@ -24,7 +24,7 @@ Responsibilities
 
 #### Impact
 
-- Introduced TDD development, continuous integration
+- Introduced TDD development, continuous integration, coding conventions
 - Refactored entire code base and improved maintainability
 - Speed up unzip code 5x faster by rewriting node.js code to Rust
 
@@ -35,13 +35,13 @@ April 2008 - June 2016
 
 #### Responsibilities
 
-- Debugged/Maintained custom operating system
+- Debugged/Maintained custom operating system, hypervisor
 - Improved network performance of NetBSD, FreeBSD
 - Researched and developed embedded system OS(Cars, Cameras etc)
 
 #### Impact
 
-- Fixed difficult kernel bugs
+- Investigated and fixed difficult kernel bugs
 - Found custom CPU bugs
 
 ## Education
