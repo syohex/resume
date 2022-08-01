@@ -11,7 +11,7 @@ syohex@gmail.com
 
 ## Work Experience
 
-### DeNA (Tokyo, Japan) Windows/macOS app Engineer, mobile SDK Engineer
+### DeNA (Tokyo, Japan) Windows/macOS app/SDK Engineer, mobile SDK Engineer
 
 July 2016 - Present
 
@@ -19,12 +19,12 @@ July 2016 - Present
 
 Responsibilities
 - Developed C++/Rust/C# software
-- Developed background process of PC game platforms([AndApp](https://www.andapp.jp/)) on Windows and macOS, Recording App, installer, node.js native modules
+- Developed background process of PC game platforms([AndApp](https://www.andapp.jp/)) on Windows and macOS, Recording App, installer, node.js native modules, C++/Unity SDK
 - Modified Electron, Chromium for improving memory usage, encrypting data
 
 #### Impact
 
-- Introduced TDD development, continuous integration, coding conventions
+- Introduced TDD development, continuous integration, established coding convention
 - Refactored entire code base and improved maintainability
 - Speed up unzip code 5x faster by rewriting node.js code to Rust
 
