@@ -8,6 +8,10 @@
 
 ## 職務内容詳細
 
+## 2022/08 -
+- QRコード読み取り専用 Android端末のライブラリ設計, 実装
+  - Kotlin, Flutter(Dart)
+
 ## 2020/12 - 2022/08
 - mBaaS向け Unity SDK, native SDK(iOS, Android)の機能設計, 開発, テスト, テストアプリ作成, QA, 保守, 運用
   - C#(Unity), Objective-C, Java, Kotlin, Swift
