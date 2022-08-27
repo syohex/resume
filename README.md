@@ -31,7 +31,9 @@
   - TypeScript
   - C#, Unity
   - F#
+  - Java, Kotlin
   - Objective-C, Objective-C++
+  - Dart
   - assembly lanaguage(ARMv7, MIPS)
 
 ## Others

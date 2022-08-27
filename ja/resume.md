@@ -9,7 +9,7 @@
 ## 職務内容詳細
 
 ## 2022/08 -
-- QRコード読み取り専用 Android端末のライブラリ設計, 実装
+- QRコード読み取り専用 Android端末の fluuter pluging設計, 実装
   - Kotlin, Flutter(Dart)
 
 ## 2020/12 - 2022/08
