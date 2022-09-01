@@ -1,4 +1,4 @@
-# 職務経歴書 2022年 8月
+# 職務経歴書 2022年 9月
 
 ## 基本情報
 
@@ -9,17 +9,18 @@
 ## 職務内容詳細
 
 ## 2022/08 -
-- QRコード読み取り専用 Android端末の fluuter pluging設計, 実装
+- QRコード読み取り専用 Android端末の flutter pluging設計, 実装
   - Kotlin, Flutter(Dart)
 
-## 2020/12 - 2022/08
+## 2020/12 - 2022/09
 - mBaaS向け Unity SDK, native SDK(iOS, Android)の機能設計, 開発, テスト, テストアプリ作成, QA, 保守, 運用
   - C#(Unity), Objective-C, Java, Kotlin, Swift
   - Java資産の Kotlinへの移行
+  - 最新 Android, iOSへの追従作業
 
-## (副業) 2021/05 - 2022/08
+## (副業) 2021/05 - 2022/09
 - レコログ サーバ APIのレビュー(コード設計, 実装, テスト)
-  - Go, OpenAPI, Clean Architecture, Ruby
+  - Go, OpenAPI, Clean Architecture, Ruby(Ruby on Rails)
 
 ## (副業) 2020/12 - 2021/04
 - レコログデスクトップ用アプリの調査, 解析

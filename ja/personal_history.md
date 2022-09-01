@@ -1,4 +1,4 @@
-# 履歴書 2022年 8月 現在
+# 履歴書 2022年 9月 現在
 
 ## 基本情報
 - 氏名: 吉田昌平
@@ -35,8 +35,7 @@
 
 ### プログラミング言語
 
-- C
-- C++
+- C, C++
 - Objective-C, Objective-C++
 - Java(Android), Kotlin(Android), Dart(Flutter)
 - アセンブリ言語(ARMv7, MIPS)
