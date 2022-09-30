@@ -37,6 +37,7 @@
 
 - C, C++
 - Objective-C, Objective-C++
+- Rust
 - Java(Android), Kotlin(Android), Dart(Flutter)
 - アセンブリ言語(ARMv7, MIPS)
 - Python

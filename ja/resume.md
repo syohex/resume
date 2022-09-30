@@ -9,7 +9,7 @@
 ## 職務内容詳細
 
 ## 2022/08 -
-- QRコード読み取り専用 Android端末の flutter pluging設計, 実装
+- QRコード読み取り専用 Android端末の flutter plugin設計, 実装
   - Kotlin, Flutter(Dart)
 - USB HIDの Android対応
   - Kotlin
