@@ -51,17 +51,17 @@
 ### OS
 
 - Linux, FreeBSD, NetBSD
- - アーキテクチャ依存部の実装, 解析, デバッグ
- - ネットワークスタックの実装, 解析, デバッグ
- - ユーザランドアプリケーションの開発
+  - アーキテクチャ依存部の実装, 解析, デバッグ
+  - ネットワークスタックの実装, 解析, デバッグ
+  - ユーザランドアプリケーションの開発
 - Windows
- - C++を用いた nativeアプリケーション開発
+  - C++を用いた nativeアプリケーション開発
 - macOS
- - Objective-C, Objective-C++を用いた nativeアプリケーション開発
+  - Objective-C, Objective-C++を用いた nativeアプリケーション開発
 - Android
-  - SDK開発
+  - Java, Kotlin SDK開発
 - iOS
-  - SDK開発
+  - Objective-C, Swift SDK開発
 - その他
   - クロスプラットフォーム向けライブラリの開発
 
@@ -75,6 +75,7 @@
 - Electron, Chromium
 - gRPC
 - Qt
+- Flutter
 
 ### 開発手法
 
