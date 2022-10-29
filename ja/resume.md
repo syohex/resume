@@ -11,6 +11,7 @@
 ## 2022/08 - 2022/10
 - QRコード読み取り専用 Android端末の flutter plugin設計, 実装, 及び専用機器の対応
   - Kotlin, Flutter(Dart)
+  - パフォーマンスチューニング, デバッグ
 - USB HIDの Android対応
   - Kotlin
 
