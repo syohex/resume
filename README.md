@@ -28,23 +28,26 @@
   - Rust
   - Python
   - node.js, C++ native module, Rust native module
-  - TypeScript
+  - TypeScript, JavaScript
   - C#, Unity
   - F#
   - Java, Kotlin
-  - Objective-C, Objective-C++
+  - Objective-C, Objective-C++, Swift
   - Dart
   - assembly lanaguage(ARMv7, MIPS)
 
 ## Others
 
 - Electron, Chromium
+- Flutter
 - OS
   - Linux kernel
   - FreeBSD kernel
   - NetBSD kernel
   - Windows application in C++
   - macOS application in Objective-C, Objective-C++
+  - Android
+  - iOS
 - Practices
   - Test Driven Development
   - Object Oriented Programming
