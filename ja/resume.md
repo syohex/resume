@@ -1,4 +1,4 @@
-# 職務経歴書 2022年 12月
+# 職務経歴書 2023年 1月
 
 ## 基本情報
 
@@ -8,14 +8,14 @@
 
 ## 職務内容詳細
 
-## 2022/08 - 2022/12
+## 2022/08 - 2023/01
 - QRコード読み取り専用 Android端末の flutter plugin設計, 実装, 及び専用機器の対応
   - Kotlin, Flutter(Dart)
   - パフォーマンスチューニング, デバッグ
 - USB HIDの Android対応
   - Kotlin
 
-## 2020/12 - 2022/12
+## 2020/12 - 2023/01
 - mBaaS向け Unity SDK, native SDK(iOS, Android)の機能設計, 開発, テスト, テストアプリ作成, QA, 保守, 運用
   - C#(Unity), Objective-C, Java, Kotlin, Swift
   - Java資産の Kotlinへの移行
