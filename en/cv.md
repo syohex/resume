@@ -18,7 +18,7 @@ July 2016 - Present
 #### Responsibilities
 
 Responsibilities
-- Developed C++/Rust/C# software
+- Developed C++/Rust/C#/Kotlin software
 - Developed background process of PC game platforms([AndApp](https://www.andapp.jp/)) on Windows and macOS, Recording App, installer, node.js native modules, C++/Unity SDK
 - Modified Electron, Chromium for improving memory usage, encrypting data
 

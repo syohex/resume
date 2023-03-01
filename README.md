@@ -1,4 +1,4 @@
-# Shohei Yoshida Resume
+# Shohei Yoshida's Resume
 
 ## Web Site
 
