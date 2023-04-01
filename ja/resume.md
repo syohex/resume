@@ -1,4 +1,4 @@
-# 職務経歴書 2023年 3月
+# 職務経歴書 2023年 4月
 
 ## 基本情報
 
@@ -8,10 +8,11 @@
 
 ## 職務内容詳細
 
-## 2022/12 - 2023/03
+## 2022/12 - 2023/04
 
 - Unityを用いたプラットフォーム開発
   - Unity(C#)
+  - Clean Architecture
 
 ## 2022/08 - 2023/03
 - QRコード読み取り専用 Android端末の flutter plugin設計, 実装, 及び専用機器の対応
@@ -20,7 +21,7 @@
 - USB HIDの Android対応
   - Kotlin
 
-## 2020/12 - 2023/03
+## 2020/12 - 2023/04
 - mBaaS向け Unity SDK, native SDK(iOS, Android)の機能設計, 開発, テスト, テストアプリ作成, QA, 保守, 運用
   - C#(Unity), Objective-C, Java, Kotlin, Swift
   - Java資産の Kotlinへの移行
