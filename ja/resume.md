@@ -55,7 +55,7 @@
     - コーディング規約の策定
     - ドキュメントの整備
     - CIクラウド移行
-      - オンプレミス環境から AWS EC2への以降
+      - オンプレミス環境から AWS EC2への移行
     - Modernな Unity環境への対応
       - Unity 4.x, 5.xの SDKの Unity 2018以降への対応
     - Rustを用いた node.js unzipモジュールの高速化
@@ -66,7 +66,7 @@
 
 
 ## 2016/07 - 2016/12
-- 概要 [AndApp](http://www.andapp.jp/)向け APIサーバの開発
+- 概要 [AndApp](https://www.andapp.jp/)向け APIサーバの開発
 - 担当: 調査, 設計, 実装, テスト
 - 作業内容
   - Go言語を用いた Google App Engineで動作する APIサーバの開発
