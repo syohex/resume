@@ -8,7 +8,7 @@
 
 ## 職務内容詳細
 
-## 2022/12 - 2023/06
+## 2022/12 - 2023/07
 
 - Unityを用いたプラットフォーム開発
   - Unity(C#)
@@ -21,7 +21,7 @@
 - USB HID(アラーム用信号灯)の Android対応
   - Kotlin
 
-## 2020/12 - 2023/05
+## 2020/12 - 2023/07
 - mBaaS向け Unity SDK, native SDK(iOS, Android)の機能設計, 開発, テスト, テストアプリ作成, QA, 保守, 運用
   - C#(Unity), Objective-C, Java, Kotlin, Swift
   - Java資産の Kotlinへの移行
