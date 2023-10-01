@@ -1,4 +1,4 @@
-# 履歴書 2023年 9月 現在
+# 履歴書 2023年 10月 現在
 
 ## 基本情報
 - 氏名: 吉田昌平
@@ -43,7 +43,7 @@
 - アセンブリ言語(ARMv7, MIPS)
 - Python
 - node.js(JavaScript, TypeScript)
-- C#, Unity
+- C#, Unity(C#, native plugin)
 - F#
 - Perl, XS
 - Go
