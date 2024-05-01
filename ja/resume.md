@@ -1,4 +1,4 @@
-# 職務経歴書 2024年 4月
+# 職務経歴書 2024年 5月
 
 ## 基本情報
 
@@ -8,7 +8,7 @@
 
 ## 職務内容詳細
 
-## 2022/12 - 2024/04
+## 2022/12 - 2024/05
 
 - Unityを用いたプラットフォーム開発
   - Unity(C#, C++ for native plugins)
@@ -22,7 +22,7 @@
 - USB HID(アラーム用信号灯)の Android対応
   - Kotlin
 
-## 2020/12 - 2024/04
+## 2020/12 - 2024/05
 - mBaaS向け Unity SDK, native SDK(iOS, Android)の機能設計, 開発, テスト, テストアプリ作成, QA, 保守, 運用
   - C#(Unity), Objective-C, Java, Kotlin, Swift
   - Java資産の Kotlinへの移行
