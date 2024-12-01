@@ -1,11 +1,13 @@
-# 履歴書 2024年 11月 現在
+# 履歴書 2024年 12月 現在
 
 ## 基本情報
 - 氏名: 吉田昌平
 - ふりがな: よしだ しょうへい
 - github: https://github.com/syohex
-- twitter: [@syohex](https://twitter.com/syohex)
+- X: [@syohex](https://x.com/syohex)
+- Bluesky: [syohex.bsky.social](https://bsky.app/profile/syohex.bsky.social)
 - LinkedIn: https://www.linkedin.com/in/shohei-yoshida-3b7bb364/
+- Hashnode: https://syohex.hashnode.dev/
 
 ## 職歴
 
@@ -19,7 +21,7 @@
 | 2024 | 5  | ニンテンドーシステムズ出向                         |
 
 
-## 学歴・職歴
+## 学歴
 
 | 年   | 月 | 学歴                                      |
 |:-----|:---|:-----------------------------------------|
