@@ -1,4 +1,4 @@
-# 職務経歴書 2024年 12月
+# 職務経歴書 2025年 1月
 
 ## 基本情報
 
@@ -8,12 +8,12 @@
 
 ## 職務内容詳細
 
-## 2022/12 - 2024/12
+## 2022/12 - 2025/01
 
 - Unityを用いたプラットフォーム開発
   - Unity(C#, C++ for native plugins), アセット管理の改善
   - Docker
-  - Github Actionsを使った CI構築
+  - Github Actionsを使った CI構築, 各種自動化
   - Clean Architecture, Reactive Programming
 
 ## 2022/08 - 2023/04
@@ -23,7 +23,7 @@
 - USB HID(アラーム用信号灯)の Android対応
   - Kotlin
 
-## 2020/12 - 2024/12
+## 2020/12 - 2025/01
 - mBaaS向け Unity SDK, native SDK(iOS, Android)の機能設計, 開発, テスト, テストアプリ作成, QA, 保守, 運用
   - C#(Unity), Objective-C, Java, Kotlin, Swift
   - Java資産の Kotlinへの移行
