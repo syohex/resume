@@ -1,4 +1,4 @@
-# 職務経歴書 2025年 9月
+# 職務経歴書 2025年 10月
 
 ## 基本情報
 
@@ -8,13 +8,14 @@
 
 ## 職務内容詳細
 
-## 2022/12 - 2025/09
+## 2022/12 - 2025/10
 
 - Unityを用いたプラットフォーム開発
   - Unity(C#, C++ for native plugins), アセット管理の改善, 独自キャッシュの実装, ScriptableRenderPipeline
   - Github Actionsを使った CI構築, 各種自動化
   - Clean Architecture, Reactive Programming
   - デバッグ, 性能改善
+- Nintendo C++ SDKのデバッグ
 
 ## 2022/08 - 2023/04
 - QRコード読み取り専用 Android端末の flutter plugin設計, 実装, 及び専用機器の対応
@@ -23,7 +24,7 @@
 - USB HID(アラーム用信号灯)の Android対応
   - Kotlin
 
-## 2020/12 - 2025/09
+## 2020/12 - 2025/10
 - mBaaS向け Unity SDK, native SDK(iOS, Android)の機能設計, 開発, テスト, テストアプリ作成, QA, 保守, 運用
   - C#(Unity), Objective-C, Java, Kotlin, Swift
   - Java資産の Kotlinへの移行
