@@ -5,11 +5,22 @@ syohex@gmail.com
 
 ## Professional Summary
 
-- 15 years of Software Engineering experience.
+- 18 years of Software Engineering experience.
 - Debugging large product software, Linux kernel, FreeBSD, NetBSD, Electron, Chromium etc
 - Strong proficient in C/C++
 
 ## Work Experience
+
+### Nintendo Systems (Tokyo, Japan) application Engineer, SDK Engineer
+
+May 2024 - Present
+
+I'm seconded to Nintendo Systems from DeNA
+
+#### Responsibilities
+
+- Developed Unity(C#, C++) applications
+- Developed C++ SDK library
 
 ### DeNA (Tokyo, Japan) Windows/macOS app/SDK Engineer, mobile SDK Engineer
 
